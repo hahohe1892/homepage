@@ -2,3 +2,4 @@ title: Example project
 description: Project description in here.
 theme: jekyll-theme-minimal
 future: true
+remote_theme: mmistakes/jekyll-theme-basically-basic
