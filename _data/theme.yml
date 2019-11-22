@@ -1,5 +1,5 @@
 # Theme Skin
-skin: plum # default, night, plum, sea, soft, steel
+skin: sea # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -37,3 +37,4 @@ navigation_pages:
   - about.md
   - cv.md
   - team.md
+  - publications.md
