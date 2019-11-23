@@ -25,7 +25,7 @@ author:
   picture:
 twitter_username: TIcesnow
 github_username:
-logo: ./assets/icons/Hobbies.png # path of site logo, e.g. "/assets/images/logo.png"
+logo: /home/thomas/Documents/homepage/assets/icons/Hobbies.png # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: true#, false (default)
 search_provider: # lunr (default), algolia
