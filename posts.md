@@ -1,6 +1,6 @@
 ---
 title: Post Archive
 layout: posts
-permalink: /posts/
+permalink: /_posts/
 entries_layout: list
 ---
