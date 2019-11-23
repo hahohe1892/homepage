@@ -3,9 +3,9 @@ layout: default
 title: Team
 ---
 
-# Person A
+# [Brandon Stock](https://www.linkedin.com/in/brandon-stock-094a4b190/)
 
-Short bio ...
+Hydrologist at Stockholm University
 
 
 # Person B
