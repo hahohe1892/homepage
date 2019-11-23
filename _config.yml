@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: The Thomas Frank Science Project
-email:
-description:
+email: t.frank95@web.de
+description: This is a little homepage with no particular purpose other than to show that I can create a homepage
 baseurl: '/homepage'# the optional subpath of your site, e.g. "/blog"
 url: 'https://hahohe1892.github.io'# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
