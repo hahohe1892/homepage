@@ -26,7 +26,7 @@ author:
 twitter_username: TIcesnow
 github_username:
 logo:  # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+search: true  # true, false (default)
 search_full_content: true#, false (default)
 search_provider: # lunr (default), algolia
 algolia:
@@ -71,7 +71,7 @@ exclude:
     #- vendor/cache/
     #- vendor/gems/
     #- vendor/ruby/
-    #  - /docs # ignore Basically Basic sample site
+    # - /docs # ignore Basically Basic sample site
     #- /example # ignore Basically Basic dev site
 
 # Front Matter Defaults
